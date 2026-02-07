@@ -63,6 +63,10 @@ Os dados utilizados são provenientes das **inscrições iniciais**, tratados e 
 
 Esses materiais permitem compreender tanto a **experiência interativa** quanto a **leitura consolidada** das informações.
 
+🎥 [Assista à demonstração da interatividade do dashboard](https://youtu.be/AAofU2LcOKY)
+
+
+
 ---
 
 ## 🧠 Análise de dados e atuação cultural
